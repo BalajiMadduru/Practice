@@ -1,4 +1,4 @@
-package com.ina.poc.lombok;
+package com.ina.poc2.lombok;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

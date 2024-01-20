@@ -1,10 +1,12 @@
-package com.ina.poc.room;
+package com.ina.poc2.room;
 
 import androidx.room.Dao;
 import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
+
+import com.ina.poc2.room.Person;
 
 import java.util.List;
 

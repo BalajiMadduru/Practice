@@ -1,4 +1,4 @@
-package com.ina.poc.room;
+package com.ina.poc2.room;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
